@@ -31,10 +31,10 @@ How to Play:
 - Click on the empty boxes to place your mark (X or O).
 - The game will automatically determine the winner or declare a draw.
 
-Reset
+Reset:
 Click the "Reset" button to start a new game.
 
-Improvements
+Improvements:
 1. Display current player
 Show which player's turn it is. Display "Player X's turn" or "Player O's turn"
 
