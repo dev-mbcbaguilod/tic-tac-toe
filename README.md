@@ -27,9 +27,9 @@ npm start
 
 Open your browser and visit http://localhost:3000 to play the Tic Tac Toe game.
 
-How to Play
-Click on the empty boxes to place your mark (X or O).
-The game will automatically determine the winner or declare a draw.
+How to Play:
+- Click on the empty boxes to place your mark (X or O).
+- The game will automatically determine the winner or declare a draw.
 
 Reset
 Click the "Reset" button to start a new game.
