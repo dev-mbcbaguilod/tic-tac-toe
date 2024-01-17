@@ -22,7 +22,7 @@ cd react-tic-tac-toe
 Install dependencies:
 npm install
 
-4. Usage
+Usage
 Start the development server:
 npm start
 
